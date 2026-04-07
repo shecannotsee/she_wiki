@@ -19,4 +19,19 @@
 当前入口：
 
 - [分类总览](./wiki/a_summaries/a1_overview.md)
+- [文章归档方法](./wiki/b_extractions/b1_methods/b12_she_wiki_article_ingestion.md)
 - [Skill：she-wiki-maintainer](./skills/she-wiki-maintainer/SKILL.md)
+
+如何使用这个仓库配合 skill：
+
+1. 准备文章来源，例如 URL、标题或正文。
+2. 明确要求代理按 `she-wiki-maintainer` 处理。
+3. 优先采用 `c_sources -> b_extractions -> a_summaries` 的完整流程。
+4. 说明应优先更新已有页面，还是允许新建页面。
+
+推荐提示词：
+
+```text
+请按 she-wiki-maintainer 规则，把这篇文章整理进 she_wiki，按 c_sources -> b_extractions -> a_summaries 处理，并保持编号和链接一致：
+<URL>
+```
