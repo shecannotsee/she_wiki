@@ -13,6 +13,12 @@
 - [系统设计类](./a5_system_design.md)
 - [技术判断类](./a6_technical_judgment.md)
 
+## 推荐入口
+
+- 如果你要了解这个仓库怎么读：先看 [方法论类](./a2_methods.md)
+- 如果你要把新文章整理进仓库：看 [she_wiki 文章归档方法](../b_extractions/b1_methods/b12_she_wiki_article_ingestion.md)
+- 如果你要看维护规则本身：看 [she-wiki-maintainer](../../skills/she-wiki-maintainer/SKILL.md)
+
 ## 分类原则
 
 - 先看知识提取页的主要用途
