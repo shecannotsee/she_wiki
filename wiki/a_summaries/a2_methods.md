@@ -9,6 +9,7 @@
 - [技能成长与刻意练习](../b_extractions/b1_methods/b15_skill_growth_and_deliberate_practice.md)
 - [事实优先与宽容共存](../b_extractions/b1_methods/b16_fact_first_and_tolerant_coexistence.md)
 - [按认知任务分层的软件文档](../b_extractions/b1_methods/b17_divio_documentation_system.md)
+- [软件架构图的 C4 分层方法](../b_extractions/b1_methods/b18_c4_software_architecture_diagramming.md)
 
 ## 这一类的共同点
 
@@ -17,6 +18,7 @@
 - 也包括对长期训练、学习方式和成长路径的抽象总结
 - 也包括面对事实与分歧时应保持的思维纪律
 - 也包括知识、文档和表达材料本身的组织方法
+- 也包括如何把软件架构信息按稳定抽象层级表达出来
 
 ## 核心总结
 
@@ -28,3 +30,4 @@
 - 技能提升要先建立习惯、补齐前置知识，再用刻意练习和持续反馈推动复利式成长
 - 讨论问题时要把愿望和事实分开，并在分歧环境中守住宽容与共存条件
 - 写文档时要先区分学习、做事、查阅和理解四种任务，再决定内容写进哪一类文档
+- 画软件架构图时要先固定抽象层级和关系语义，再讨论图形样式和工具
