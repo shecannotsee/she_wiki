@@ -20,6 +20,32 @@
   1. 一点关乎智识或智慧
   2. 一点关乎道德
 
+## 原始内容整理
+
+### 英文整理版
+
+- On the intellectual side, Russell's advice is to begin with facts.
+- When thinking about any question of fact or philosophy, he says one should first ask what the facts are, and then ask what truth those facts actually support.
+- He warns against being pulled away by what one wishes were true.
+- He also warns against accepting a belief just because it seems as though it would have good social consequences if others believed it.
+- His emphasis is that one should look only to the facts and to the truth that can honestly be drawn from them.
+- On the moral side, his message is simpler and more direct: love is wiser than hatred.
+- He says the world is becoming more and more closely interconnected, so people must learn to tolerate one another.
+- That includes accepting that others will sometimes say things one does not like to hear.
+- In his view, if human beings are to live together rather than perish together, they must learn charity and tolerance.
+
+### 中文整理版
+
+- 在智识层面，罗素的建议是先从事实出发。
+- 无论思考事实问题还是哲学问题，首先都该问：事实是什么；然后再问：这些事实究竟支持什么真理。
+- 他提醒人们，不要被自己更希望是真的东西带偏。
+- 也不要因为某种信念如果被更多人接受，看起来会带来更好的社会效果，就放松对真实性的要求。
+- 他强调，应当只看事实本身，以及这些事实能够诚实支持到什么结论。
+- 在道德层面，他的表述更直接：爱比恨更明智。
+- 他认为世界正在变得越来越紧密相连，因此人们必须学会彼此容忍。
+- 这也意味着要接受这样一个现实：别人有时会说出自己不喜欢听的话。
+- 如果人类想要共同活下去，而不是共同毁灭，就必须学会宽容、克制与彼此体谅。
+
 ## 原始信息
 
 - 关于智识，罗素强调：
