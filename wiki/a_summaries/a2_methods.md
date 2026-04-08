@@ -7,12 +7,14 @@
 - [让平淡材料产生叙事张力](../b_extractions/b1_methods/b13_engaging_narrative_writing.md)
 - [高性能计算优化的稳定顺序](../b_extractions/b1_methods/b14_hpc_optimization_order.md)
 - [技能成长与刻意练习](../b_extractions/b1_methods/b15_skill_growth_and_deliberate_practice.md)
+- [事实优先与宽容共存](../b_extractions/b1_methods/b16_fact_first_and_tolerant_coexistence.md)
 
 ## 这一类的共同点
 
 - 解决的是“如何思考、如何推进问题”
 - 强调结构化、验证和过程控制
 - 也包括对长期训练、学习方式和成长路径的抽象总结
+- 也包括面对事实与分歧时应保持的思维纪律
 
 ## 核心总结
 
@@ -22,3 +24,4 @@
 - 表达方法的核心不是堆技巧，而是重构读者的发现路径
 - 性能优化要先看算法、数据布局和验证顺序，再谈局部技巧
 - 技能提升要先建立习惯、补齐前置知识，再用刻意练习和持续反馈推动复利式成长
+- 讨论问题时要把愿望和事实分开，并在分歧环境中守住宽容与共存条件
