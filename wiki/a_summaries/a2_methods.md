@@ -11,6 +11,7 @@
 - [按认知任务分层的软件文档](../b_extractions/b1_methods/b17_divio_documentation_system.md)
 - [软件架构图的 C4 分层方法](../b_extractions/b1_methods/b18_c4_software_architecture_diagramming.md)
 - [纯科学优先与科研标准](../b_extractions/b1_methods/b19_pure_science_and_scientific_standards.md)
+- [LLM pretrain 工程的稳定顺序](../b_extractions/b1_methods/b110_llm_pretrain_engineering_order.md)
 
 ## 这一类的共同点
 
@@ -21,6 +22,7 @@
 - 也包括知识、文档和表达材料本身的组织方法
 - 也包括如何把软件架构信息按稳定抽象层级表达出来
 - 也包括如何守住科学研究的高标准与非功利取向
+- 也包括如何以稳定顺序推进高成本的大模型预训练工程
 
 ## 核心总结
 
@@ -34,3 +36,4 @@
 - 写文档时要先区分学习、做事、查阅和理解四种任务，再决定内容写进哪一类文档
 - 画软件架构图时要先固定抽象层级和关系语义，再讨论图形样式和工具
 - 做科研组织和学术培养时，要先守住纯科学源头、高标准和长期支持条件，再谈短期应用回报
+- 做高成本训练工程时，要先守住数据、顺序、监控和回退能力，再讨论结构创新
