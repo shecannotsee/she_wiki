@@ -6,6 +6,7 @@
 - [反馈链路可靠性](../b_extractions/b4_system_design/b42_feedback_loop_reliability.md)
 - [Agent 长期记忆系统设计](../b_extractions/b4_system_design/b43_agent_long_term_memory_systems.md)
 - [线程池的最小系统骨架](../b_extractions/b4_system_design/b44_thread_pool_minimal_architecture.md)
+- [DDIA 分布式系统设计基础框架](../b_extractions/b4_system_design/b45_ddia_distributed_system_design_foundations.md)
 
 ## 这一类的共同点
 
@@ -19,3 +20,4 @@
 - 关键反馈链路如果不可验证，系统看起来在闭环，实际上仍可能失控
 - Agent 的长期记忆系统要按时间尺度和用途分层，并把检索目标从“找相似历史”提升到“服务当前动作”
 - 线程池这类基础组件的关键，不是把任务跑起来，而是先定义提交、返回、休眠和停机这几类系统承诺
+- 分布式系统设计要先定义一致性和故障边界，再讨论复制、分片、事务与批流处理的具体方案
