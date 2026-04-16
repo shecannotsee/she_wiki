@@ -9,6 +9,7 @@
 - [CUDA/NVIDIA 算子性能优化骨架](../b_extractions/b2_technical_fundamentals/b25_cuda_operator_performance_optimization_skeleton.md)
 - [解释器、编译器与虚拟机的求值骨架](../b_extractions/b2_technical_fundamentals/b26_interpreter_compiler_vm_eval_apply_skeleton.md)
 - [AST 作为源码结构抽象层的职责](../b_extractions/b2_technical_fundamentals/b27_ast_as_source_structure_abstraction.md)
+- [区块链的可信记账与链外存储分工](../b_extractions/b2_technical_fundamentals/b28_blockchain_trust_and_storage_principles.md)
 
 ## 这一类的共同点
 
@@ -21,6 +22,7 @@
 - 也包括把 GPU 算子性能问题拆回硬件上限、访存事务、调度与专用计算单元这些真实机制层
 - 也包括把解释器、编译器和虚拟机拆回求值、应用、环境与翻译这几层稳定骨架
 - 也包括把源码处理流程拆回 token、AST 和后续语义/IR 处理之间的职责边界
+- 也包括把区块链问题拆回共享账本、节点副本、哈希链、共识以及链上链外分工这些机制层
 
 ## 核心总结
 
@@ -33,3 +35,4 @@
 - 看 GPU 性能时，先分清算力上限、带宽上限、访存事务和调度约束，再讨论某条指令或某个库为什么更快
 - 学解释器和编译器时，先抓 `eval`、`apply`、environment 和翻译边界，再进入词法、语法和代码生成细节
 - 学 AST 时，先抓它为什么要抽象掉表面语法细节，再看具体节点类型和工具 API
+- 看区块链时，先抓它解决的是多方可信记账问题，再讨论具体币种、链类型、合约平台或链外存储方案
