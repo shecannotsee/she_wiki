@@ -14,6 +14,8 @@
 - [LLM pretrain 工程的稳定顺序](../b_extractions/b1_methods/b110_llm_pretrain_engineering_order.md)
 - [数学证明学习的数感优先顺序](../b_extractions/b1_methods/b111_math_proof_learning_number_sense_order.md)
 - [技能训练应尽早嵌入真实任务与表达](../b_extractions/b1_methods/b112_skill_training_inside_real_tasks.md)
+- [CUDA 学习的硬件优先与 profiling 顺序](../b_extractions/b1_methods/b113_cuda_learning_order.md)
+- [自由、责任与反自欺](../b_extractions/b1_methods/b114_freedom_responsibility_and_bad_faith.md)
 
 ## 这一类的共同点
 
@@ -27,6 +29,8 @@
 - 也包括如何以稳定顺序推进高成本的大模型预训练工程
 - 也包括如何把“先直觉后形式化”的学习顺序用于数学证明训练
 - 也包括如何避免让基础练习脱离真实任务长期自转
+- 也包括如何按硬件执行模型来安排 CUDA 学习顺序
+- 也包括如何把自由、责任与自欺这些哲学问题变成可操作的自我检视顺序
 
 ## 核心总结
 
@@ -43,3 +47,5 @@
 - 做高成本训练工程时，要先守住数据、顺序、监控和回退能力，再讨论结构创新
 - 数学证明学习中，先训练条件的信息增量判断力，再进入严格证明，通常更高效
 - 技能训练设计中，要尽早把基础能力接回真实任务与真实表达，而不是让拆分练习长期主导训练
+- 学 CUDA 时，先理解执行模型和内存层级，再进入 kernel、shared memory 和 profiling，通常比先背 API 更稳
+- 处理自我认识问题时，把“我是什么”收回到“我如何选择、如何自欺、下一步准备怎么做”，通常比沉迷标签更有力量
