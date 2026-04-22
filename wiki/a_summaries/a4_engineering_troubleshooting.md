@@ -7,6 +7,7 @@
 - [强前端反爬内容获取](../b_extractions/b3_engineering_troubleshooting/b33_frontend_anti_bot_content_acquisition.md)
 - [终端长任务与会话脱离](../b_extractions/b3_engineering_troubleshooting/b34_terminal_job_detachment.md)
 - [OpenCV CUDA 源码构建排障顺序](../b_extractions/b3_engineering_troubleshooting/b35_opencv_cuda_source_build.md)
+- [Electron Renderer 依赖接入与启动链路排障顺序](../b_extractions/b3_engineering_troubleshooting/b36_electron_renderer_dependency_startup_troubleshooting.md)
 
 ## 这一类的共同点
 
@@ -15,6 +16,7 @@
 - 都要求对比不同路径或不同执行面
 - 都要求先分清“程序问题”和“运行环境问题”
 - 也包括多依赖源码构建场景里，如何先守住环境一致性再谈功能开关
+- 也包括 Electron 项目里如何先分清运行时模型，再决定第三方依赖该怎么接入
 
 ## 核心总结
 
@@ -22,3 +24,4 @@
 - 常见高价值动作是：对比、隔离、验证
 - 长任务保活问题要先区分 shell、终端、会话和主机生命周期这四层
 - 源码构建问题要先查版本、路径、依赖和安装残留是否一致，再查业务代码
+- Renderer 启动问题要先确认依赖和入口模块能否在真实运行时被加载，再谈功能本身对不对
