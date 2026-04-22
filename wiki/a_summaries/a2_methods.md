@@ -16,6 +16,9 @@
 - [技能训练应尽早嵌入真实任务与表达](../b_extractions/b1_methods/b112_skill_training_inside_real_tasks.md)
 - [CUDA 学习的硬件优先与 profiling 顺序](../b_extractions/b1_methods/b113_cuda_learning_order.md)
 - [自由、责任与反自欺](../b_extractions/b1_methods/b114_freedom_responsibility_and_bad_faith.md)
+- [分布式存储工程师的学习顺序](../b_extractions/b1_methods/b115_distributed_storage_learning_order.md)
+- [乐器认知与常见误解检查表](../b_extractions/b1_methods/b116_instrument_cognition_and_misconception_check.md)
+- [跨语言中介帮助理解艰深文本](../b_extractions/b1_methods/b117_cross_language_bridge_for_text_understanding.md)
 
 ## 这一类的共同点
 
@@ -31,6 +34,9 @@
 - 也包括如何避免让基础练习脱离真实任务长期自转
 - 也包括如何按硬件执行模型来安排 CUDA 学习顺序
 - 也包括如何把自由、责任与自欺这些哲学问题变成可操作的自我检视顺序
+- 也包括如何给分布式存储这类大系统安排更稳的学习起步顺序
+- 也包括如何校正常见的乐器认知误区，避免被器材神话和圈层叙事带偏
+- 也包括如何借更熟悉的中介语言先读懂跨语系的艰深文本
 
 ## 核心总结
 
@@ -49,3 +55,6 @@
 - 技能训练设计中，要尽早把基础能力接回真实任务与真实表达，而不是让拆分练习长期主导训练
 - 学 CUDA 时，先理解执行模型和内存层级，再进入 kernel、shared memory 和 profiling，通常比先背 API 更稳
 - 处理自我认识问题时，把“我是什么”收回到“我如何选择、如何自欺、下一步准备怎么做”，通常比沉迷标签更有力量
+- 学分布式存储时，先建立模块图，再围绕文件结构、语义和异常修复深入，通常比直接啃源码更稳
+- 面对乐器争论时，先拆开结构、状态、演奏控制与环境因素，再谈材质、价格和上限，通常更不容易误判
+- 处理陌生文本时，先借中介语言建立直观义项，再决定是否进入严格原典分析，通常更容易破题
