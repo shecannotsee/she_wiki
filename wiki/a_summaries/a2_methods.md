@@ -19,6 +19,7 @@
 - [分布式存储工程师的学习顺序](../b_extractions/b1_methods/b115_distributed_storage_learning_order.md)
 - [乐器认知与常见误解检查表](../b_extractions/b1_methods/b116_instrument_cognition_and_misconception_check.md)
 - [跨语言中介帮助理解艰深文本](../b_extractions/b1_methods/b117_cross_language_bridge_for_text_understanding.md)
+- [科研思想培养中的问题先于方法与平台先于论文](../b_extractions/b1_methods/b118_research_thought_training_and_mentor_boundaries.md)
 
 ## 这一类的共同点
 
@@ -37,6 +38,7 @@
 - 也包括如何给分布式存储这类大系统安排更稳的学习起步顺序
 - 也包括如何校正常见的乐器认知误区，避免被器材神话和圈层叙事带偏
 - 也包括如何借更熟悉的中介语言先读懂跨语系的艰深文本
+- 也包括如何在科研训练里处理选题、平台建设、学生培养与导师边界之间的张力
 
 ## 核心总结
 
@@ -58,3 +60,4 @@
 - 学分布式存储时，先建立模块图，再围绕文件结构、语义和异常修复深入，通常比直接啃源码更稳
 - 面对乐器争论时，先拆开结构、状态、演奏控制与环境因素，再谈材质、价格和上限，通常更不容易误判
 - 处理陌生文本时，先借中介语言建立直观义项，再决定是否进入严格原典分析，通常更容易破题
+- 做科研培养时，先把问题本身想透并用真实大任务承载训练，再谈快速收割论文，通常更容易长出真正稳定的能力
