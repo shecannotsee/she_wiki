@@ -2,7 +2,17 @@
 
 [英文](./README.md)
 
-如果你想把一篇新文章快速归档进 `she_wiki`，最直接的入口就是让代理按 `she-wiki-maintainer` 处理。
+`she_wiki` 的主入口是 [分类总览](./wiki/a_summaries/a1_overview.md)。
+总览页说明仓库的阅读方式、内容分布和各分类下的现有主题。
+
+新文章归档流程由 `she-wiki-maintainer` 对应的规则和方法文档定义。
+
+## 入口说明
+
+- [分类总览](./wiki/a_summaries/a1_overview.md) 是仓库的总入口，用于建立整体认识和快速浏览现有内容
+- [分类总览](./wiki/a_summaries/a1_overview.md) 中的“维护检查清单”说明新增条目后通常需要同步检查的页面
+- [文章归档方法](./wiki/b_extractions/b1_methods/b12_she_wiki_article_ingestion.md) 说明新文章进入仓库时的处理流程、文件落点和链接维护方式
+- [Skill：she-wiki-maintainer](./skills/she-wiki-maintainer/SKILL.md) 记录仓库维护时使用的结构规则和编辑约束
 
 ## 快速开始
 
@@ -38,8 +48,9 @@
 <URL>
 ```
 
-如果你想继续看完整归档流程、文件落点和更多提示词变体，可以直接看：
+完整归档流程、文件落点和提示词变体集中在以下页面：
 
+- [分类总览](./wiki/a_summaries/a1_overview.md)
 - [文章归档方法](./wiki/b_extractions/b1_methods/b12_she_wiki_article_ingestion.md)
 - [Skill：she-wiki-maintainer](./skills/she-wiki-maintainer/SKILL.md)
 
