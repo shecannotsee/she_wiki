@@ -49,7 +49,10 @@ When new knowledge is added:
 1. Create or update a page in `c_sources`.
 2. Extract stable conclusions into the correct category under `b_extractions`.
 3. Update the relevant summary page in `a_summaries`.
-4. Update links across all touched pages.
+4. Update `a1_overview` when the topic inventory, category counts, or category distribution changes.
+5. Update links across all touched pages.
+
+Because `a1_overview` is a full browsing entry page, new topics should be assumed to require an overview check unless it is already certain that the overview inventory remains unchanged.
 
 ## Query workflow
 
