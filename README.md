@@ -2,7 +2,16 @@
 
 [Chinese](./README.zh-CN.md)
 
-This repository is easiest to use through `she-wiki-maintainer` when you want to archive a new article into the wiki.
+The main entry to `she_wiki` is the [Overview](./wiki/a_summaries/a1_overview.md).
+The overview explains the reading structure, the content distribution, and the current topics across all categories.
+
+The article archival flow is defined by `she-wiki-maintainer` and its related documentation.
+
+## Entry Points
+
+- [Overview](./wiki/a_summaries/a1_overview.md) is the repository entry page for orientation and quick scanning
+- [Article ingestion tutorial](./wiki/b_extractions/b1_methods/b12_she_wiki_article_ingestion.md) defines the archival flow, file placement, and link maintenance rules
+- [Skill: she-wiki-maintainer](./skills/she-wiki-maintainer/SKILL.md) records the maintenance structure and editing constraints for this repository
 
 ## Quick Start
 
@@ -35,8 +44,9 @@ Please process this article with she-wiki-maintainer and merge it into existing 
 <URL>
 ```
 
-For the full archival workflow, file placement, and prompt variants, see:
+The full archival workflow, file placement rules, and prompt variants are collected in:
 
+- [Overview](./wiki/a_summaries/a1_overview.md)
 - [Article ingestion tutorial](./wiki/b_extractions/b1_methods/b12_she_wiki_article_ingestion.md)
 - [Skill: she-wiki-maintainer](./skills/she-wiki-maintainer/SKILL.md)
 
