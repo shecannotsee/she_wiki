@@ -34,9 +34,9 @@
 
 ## 快速总览
 
-当前共有 5 个分类，47 篇知识提取页。
+当前共有 5 个分类，48 篇知识提取页。
 
-### 方法论类（18）
+### 方法论类（19）
 
 适合处理“怎么思考、怎么学习、怎么表达、怎么组织知识”这类问题。
 
@@ -59,6 +59,7 @@
 - [乐器认知与常见误解检查表](../b_extractions/b1_methods/b116_instrument_cognition_and_misconception_check.md)
 - [跨语言中介帮助理解艰深文本](../b_extractions/b1_methods/b117_cross_language_bridge_for_text_understanding.md)
 - [科研思想培养中的问题先于方法与平台先于论文](../b_extractions/b1_methods/b118_research_thought_training_and_mentor_boundaries.md)
+- [超小型模型从零训练的项目选择与学习路径](../b_extractions/b1_methods/b119_small_llm_training_project_selection.md)
 
 ### 技术原理类（10）
 
