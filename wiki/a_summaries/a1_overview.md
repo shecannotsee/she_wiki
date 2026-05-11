@@ -34,7 +34,7 @@
 
 ## 快速总览
 
-当前共有 5 个分类，48 篇知识提取页。
+当前共有 5 个分类，49 篇知识提取页。
 
 ### 方法论类（19）
 
@@ -101,7 +101,7 @@
 - [DDIA 分布式系统设计基础框架](../b_extractions/b4_system_design/b45_ddia_distributed_system_design_foundations.md)
 - [游戏服务端架构的类型分化与演进](../b_extractions/b4_system_design/b46_game_server_architecture_evolution.md)
 
-### 技术判断类（7）
+### 技术判断类（8）
 
 适合处理“看起来很强，但到底值不值得、稳不稳、判断是否失真”的问题。
 
@@ -113,6 +113,7 @@
 - [性能优化要优先处理 IO、布局与减法空间](../b_extractions/b5_technical_judgment/b55_performance_optimization_judgment_order.md)
 - [GPU Kernel Engineer 岗位的长期价值与护城河](../b_extractions/b5_technical_judgment/b56_gpu_kernel_engineer_role_and_moat.md)
 - [市场涨跌判断要先看订单失衡再看消息叙事](../b_extractions/b5_technical_judgment/b57_market_move_judgment_order_imbalance_over_news.md)
+- [没有授权的跨部门协调，要先判断组织结构和发起人是否缺位](../b_extractions/b5_technical_judgment/b58_cross_department_coordination_without_authority.md)
 
 ## 当前分类
 
