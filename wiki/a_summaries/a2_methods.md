@@ -20,6 +20,7 @@
 - [乐器认知与常见误解检查表](../b_extractions/b1_methods/b116_instrument_cognition_and_misconception_check.md)
 - [跨语言中介帮助理解艰深文本](../b_extractions/b1_methods/b117_cross_language_bridge_for_text_understanding.md)
 - [科研思想培养中的问题先于方法与平台先于论文](../b_extractions/b1_methods/b118_research_thought_training_and_mentor_boundaries.md)
+- [超小型模型从零训练的项目选择与学习路径](../b_extractions/b1_methods/b119_small_llm_training_project_selection.md)
 
 ## 这一类的共同点
 
@@ -39,6 +40,7 @@
 - 也包括如何校正常见的乐器认知误区，避免被器材神话和圈层叙事带偏
 - 也包括如何借更熟悉的中介语言先读懂跨语系的艰深文本
 - 也包括如何在科研训练里处理选题、平台建设、学生培养与导师边界之间的张力
+- 也包括如何给从零训练小模型这类学习任务选择更合适的项目载体和推进顺序
 
 ## 核心总结
 
@@ -61,3 +63,4 @@
 - 面对乐器争论时，先拆开结构、状态、演奏控制与环境因素，再谈材质、价格和上限，通常更不容易误判
 - 处理陌生文本时，先借中介语言建立直观义项，再决定是否进入严格原典分析，通常更容易破题
 - 做科研培养时，先把问题本身想透并用真实大任务承载训练，再谈快速收割论文，通常更容易长出真正稳定的能力
+- 学从零训练小模型时，先选低成本、全流程、数据和教程更完整的项目，再逐步进入更大规模工程，通常更不容易空转
