@@ -34,7 +34,7 @@
 
 ## 快速总览
 
-当前共有 5 个分类，50 篇知识提取页。
+当前共有 5 个分类，51 篇知识提取页。
 
 ### 方法论类（19）
 
@@ -101,7 +101,7 @@
 - [DDIA 分布式系统设计基础框架](../b_extractions/b4_system_design/b45_ddia_distributed_system_design_foundations.md)
 - [游戏服务端架构的类型分化与演进](../b_extractions/b4_system_design/b46_game_server_architecture_evolution.md)
 
-### 技术判断类（9）
+### 技术判断类（10）
 
 适合处理“看起来很强，但到底值不值得、稳不稳、判断是否失真”的问题。
 
@@ -115,6 +115,7 @@
 - [市场涨跌判断要先看订单失衡再看消息叙事](../b_extractions/b5_technical_judgment/b57_market_move_judgment_order_imbalance_over_news.md)
 - [没有授权的跨部门协调，要先判断组织结构和发起人是否缺位](../b_extractions/b5_technical_judgment/b58_cross_department_coordination_without_authority.md)
 - [复杂社会竞争不宜压缩成单变量公平叙事](../b_extractions/b5_technical_judgment/b59_single_variable_fairness_judgment.md)
+- [财富自由叙事要先区分价值创造、多变量竞争与弱者解释](../b_extractions/b5_technical_judgment/b510_wealth_freedom_narrative_judgment.md)
 
 ## 当前分类
 
