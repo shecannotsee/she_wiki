@@ -11,6 +11,7 @@
 - [市场涨跌判断要先看订单失衡再看消息叙事](../b_extractions/b5_technical_judgment/b57_market_move_judgment_order_imbalance_over_news.md)
 - [没有授权的跨部门协调，要先判断组织结构和发起人是否缺位](../b_extractions/b5_technical_judgment/b58_cross_department_coordination_without_authority.md)
 - [复杂社会竞争不宜压缩成单变量公平叙事](../b_extractions/b5_technical_judgment/b59_single_variable_fairness_judgment.md)
+- [财富自由叙事要先区分价值创造、多变量竞争与弱者解释](../b_extractions/b5_technical_judgment/b510_wealth_freedom_narrative_judgment.md)
 
 ## 这一类的共同点
 
@@ -23,6 +24,7 @@
 - 都要求把“市场为什么涨跌”拆回订单失衡、参与者结构和量价关系，而不是停在事后新闻解释
 - 都要求把“推进不动是不是我不够会做人”拆回组织结构、授权边界和利益分布，而不是先做自责式解释
 - 都要求把“单一指标看起来更公平”拆回信息密度、遗漏变量和真实筛选目标，而不是停在形式整齐感
+- 都要求把“成功学口号是否成立”拆回价值创造、竞争结构和遗漏变量，而不是先被作者气势带着走
 
 ## 核心总结
 
@@ -35,3 +37,4 @@
 - 先问价格是怎么成交出来的、谁在制造失衡，再问一条消息是不是足以解释整段走势
 - 先问当前推进失败是个人能力问题，还是授权、利益和发起人支持出了结构性缺口，再决定是否继续硬推
 - 先问当前评价问题本来是不是多变量，再决定是否值得把它压缩成一个看似更公平的单指标
+- 先问一套财富自由叙事到底解释了什么竞争机制，再决定它是在提供判断骨架，还是只是在输出强情绪口号
